@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olaa! Bem Vindo ao meu Perfl...🏻
+### Olaa! Bem Vindo ao meu Perfl...
 
-Me chamo Eliveuton Souza e sou estudante de tecnologias Front-End para Web e Mobile, onde aplico minhas habilidades no meio profissional 👨🏻‍💻. Além disso sou criador de conteúdo no instagram: [@eliveuton.dev](https://www.instagram.com/eliveuton.dev/).🏻
+Me chamo Eliveuton Souza e sou estudante de tecnologias Front-End para Web e Mobile, onde aplico minhas habilidades no meio profissional 👨🏻‍💻. Além disso sou criador de conteúdo no instagram: [@eliveuton.dev](https://www.instagram.com/eliveuton.dev/).
 
 No meu tempo livre, procuro aprender coisas novas como Java Script, React/React Native, UI & UX Design, entre outros conteudos que aborda Front-End e Desenvolviemnto mobile. Não muito importante no meio profissional, eu gosto de jogos, ouvir musica e tocar violão.
 
