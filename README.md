@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olaa! Bem Vindo ao meu Perfl...
+### Olaa! Bem Vindo ao meu Perfil...
 
-Me chamo Eliveuton Souza e sou estudante de tecnologias Front-End para Web e Mobile, onde aplico minhas habilidades no meio profissional 👨🏻‍💻. Além disso sou criador de conteúdo no instagram: [@eliveuton.dev](https://www.instagram.com/eliveuton.dev/).
+Me chamo Eliveuton Souza e sou estudante de tecnologias Front-End para Web e Mobile, onde aplico minhas habilidades no meio profissional 👨🏻‍💻. Além disso sou criador de conteúdo no Instagram: [@eliveuton.dev](https://www.instagram.com/eliveuton.dev/).
 
-No meu tempo livre, procuro aprender coisas novas como Java Script, React/React Native, UI & UX Design, entre outros conteudos que aborda Front-End e Desenvolviemnto mobile. Não muito importante no meio profissional, eu gosto de jogos, ouvir musica e tocar violão.
+No meu tempo livre, procuro aprender coisas novas como Java Script, React/React Native, UI & UX Design, entre outros conteúdos que aborda Front-End e Desenvolvimento mobile. Não muito importante no meio profissional, eu gosto de jogos, ouvir musica e tocar violão...
 
 [![Instagram Badge](https://img.shields.io/badge/-@eliveuton.dev-8B008B?style=flat-square&labelColor=8B008B&logo=instagram&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://www.instagram.com/eliveuton.dev/)  [![Linkedin Badge](https://img.shields.io/badge/-eliveutonsouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliveuton-sousa-a7309b175/)](https://www.linkedin.com/in/eliveuton-sousa-a7309b175/) [![Gmail Badge](https://img.shields.io/badge/-contato@eliveutonsouza.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@eliveutonsouza.com)](mailto:contato@eliveutonsouza.com)
