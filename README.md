@@ -16,7 +16,7 @@
   <li>📧 Contact email: <a style="color: #4240DC" href="mailto:eliveuton3m@hotmail.com">eliveuton3m@hotmail.com</a></li>
   </ul>
 
-<p align="center">
+<p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=eliveutonsouza&show_icons=true" alt="eliveutonsouza"/> 
 </p>
