@@ -3,7 +3,7 @@
 <h1 align="center"> Wellcome, I'am Eliveuton Souza</h1>
 <p align="center"> <strong>I am a student of JavaScript Front-End Stack Technologies and Future Software Engineer<strong><p>
 
-  <h3 align="left"><strong><i>Sobre mim:</i></strong></h3>
+  <h3 align="left"><strong><i>About Me:</i></strong></h3>
 <ul>
 <li>📷 Content creator on instagram <a style="color: #4240DC" href="https://www.instagram.com/eliveuton.dev/">eliveuton.dev</a></li>
 <li>👨‍💻 Front-End Development Study</li>
