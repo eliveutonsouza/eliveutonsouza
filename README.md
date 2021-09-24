@@ -12,7 +12,7 @@
 <li>💜 Interest in <a style="color: #4240DC" href="https://pt-br.reactjs.org/">ReactJS</a>, <a style="color: #4240DC" href="https://reactnative.dev/">React Native</a></li>
 <li>✅ I like to work with <a style="color: #4240DC" href="http://www.desenvolvimentoagil.com.br/">agile methodologies</a></li>
 <li>🎇 Technologies I use: <a style="color: #4240DC" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>, <a style="color: #4240DC" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>, <a style="color: #4240DC" href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript">JavaScript</a></li>
-  <li>👋 connect with me on <a style="color: #4240DC" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">LinkedIn</a></li>
+  <li>👋 Connect with me on <a style="color: #4240DC" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">LinkedIn</a></li>
   <li>📧 Contact email: <a style="color: #4240DC" href="mailto:eliveuton3m@hotmail.com">eliveuton3m@hotmail.com</a></li>
   </ul>
 
