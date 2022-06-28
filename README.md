@@ -17,7 +17,11 @@
   			<li>👋 Connect with me on <a style="color: #4240DC" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">LinkedIn</a></li>
 				<li>📧 Contact email: <a style="color: #4240DC" href="mailto:eliveuton3m@hotmail.com">eliveuton3m@hotmail.com</a></li>
   		</ul>
+		
+		
    </div>
+   
+   <a align="right" href="https://app.daily.dev/eliveutonsm"><img src="https://api.daily.dev/devcards/586ba950f0d44c42ba7bbfbacc9d82fd.png?r=0kl" width="400" alt="Eliveuton Souza's Dev Card"/></a>
     
   
 
