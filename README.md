@@ -38,5 +38,5 @@
 
 <br />
 	
-<h2 align="center">👇👨‍💻 Conheça meus melhores projetos 👨‍💻👇</h2>
+<h2 align="center">👇👨‍💻 Discover my best projects 👨‍💻👇</h2>
 
