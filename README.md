@@ -27,8 +27,8 @@
 <br/>
 	
 ### 📊 GitHub Stats:
-<span><img height="150em" src="https://github-readme-stats.vercel.app/api?username=eliveutonsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/></span>
-<span><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=eliveutonsouza&theme=dark&hide_border=false" /></span>
+<span><img height="160em" src="https://github-readme-stats.vercel.app/api?username=eliveutonsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/></span>
+<span><img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=eliveutonsouza&theme=dark&hide_border=false" /></span>
 
 <br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliveutonsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
