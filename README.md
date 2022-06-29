@@ -1,6 +1,9 @@
 <h1 align="center"> Wellcome, I'am Eliveuton Souza</h1>
 <p align="center"> <strong>I am a student of JavaScript Front-End Stack Technologies and Future Software Engineer<strong><p>
+<br/>
+<br/>
 <a href="https://app.daily.dev/eliveutonsm"><img align="right" height="400em" src="https://api.daily.dev/devcards/586ba950f0d44c42ba7bbfbacc9d82fd.png?r=3wo"/></a>
+
 <p><i>About Me:</i></p>
 	
 * 📷 Content creator on instagram [eliveuton.dev](https://www.instagram.com/eliveuton.dev)
@@ -24,8 +27,10 @@
 <br/>
 	
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eliveutonsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=eliveutonsouza&theme=dark&hide_border=false)<br/>
+<span><img height="150em" src="https://github-readme-stats.vercel.app/api?username=eliveutonsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/></span>
+<span><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=eliveutonsouza&theme=dark&hide_border=false" /></span>
+
+<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliveutonsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- ### 🏆 GitHub Trophies
