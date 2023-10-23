@@ -30,10 +30,14 @@
 <br/>
 	
 ### 📊 GitHub Stats:
-<span><img height="160em" src="https://github-readme-stats.vercel.app/api?username=eliveutonsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/></span>
-<span><img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=eliveutonsouza&theme=dark&hide_border=false" /></span>
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliveutonsouza&theme=dark)](https://github.com/seu_usuário/github-readme-stats)
+<span><img height="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliveutonsouza&theme=dark"/></span>
+<div display="inline">
+	<span><img height="200em" src="https://github-readme-stats.vercel.app/api?username=eliveutonsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/></span>
+	<span><img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=eliveutonsouza&theme=dark&hide_border=false" /></span>
+</div>
 <br/>
+ -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliveutonsouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- ### 🏆 GitHub Trophies
