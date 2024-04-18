@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D563DAQFZS2fvUQBOyg/image-scale_191_1128/0/1684355444871/dexiansolutions_cover?e=2147483647&v=beta&t=BS-nL1aSBt5FFyoGqFEUeBzd2Bo6stKXJqcXdDKtr4Y" align="center" style="width: 100%" />
+<img src="https://ik.imagekit.io/eliveutonsm/Pessoal/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner_ya1-3CHQq.png?updatedAt=1713405488336" align="center" style="width: 100%" />
 </div>  
   
 
