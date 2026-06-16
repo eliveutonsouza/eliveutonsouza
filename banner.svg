@@ -1,0 +1,49 @@
+<svg width="100%" viewBox="0 0 680 280" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Eliveuton Souza — Software Engineer · AI Builder · SaaS Founder</title>
+  <desc>Dark professional banner with name, title, location and contact links</desc>
+
+  <rect width="680" height="280" fill="#0D1117" rx="10"/>
+
+  <!-- Decorative circles -->
+  <circle cx="580" cy="50" r="90" fill="#1C2A40" opacity="0.7"/>
+  <circle cx="620" cy="140" r="55" fill="#1A3050" opacity="0.5"/>
+  <circle cx="540" cy="200" r="40" fill="#162238" opacity="0.6"/>
+  <circle cx="100" cy="240" r="60" fill="#1C2A40" opacity="0.4"/>
+  <circle cx="30" cy="200" r="35" fill="#1A3050" opacity="0.3"/>
+
+  <!-- Accent line -->
+  <line x1="40" y1="200" x2="440" y2="200" stroke="#378ADD" stroke-width="1.5" opacity="0.4"/>
+
+  <!-- Dot grid decoration -->
+  <g opacity="0.15" fill="#378ADD">
+    <circle cx="490" cy="30" r="2"/><circle cx="506" cy="30" r="2"/><circle cx="522" cy="30" r="2"/>
+    <circle cx="490" cy="46" r="2"/><circle cx="506" cy="46" r="2"/><circle cx="522" cy="46" r="2"/>
+    <circle cx="490" cy="62" r="2"/><circle cx="506" cy="62" r="2"/><circle cx="522" cy="62" r="2"/>
+  </g>
+
+  <!-- Name -->
+  <text x="40" y="82" font-family="'Segoe UI', system-ui, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">Eliveuton Souza</text>
+
+  <!-- Blue accent bar -->
+  <rect x="40" y="92" width="200" height="3" fill="#378ADD" rx="2"/>
+
+  <!-- Subtitle lines -->
+  <text x="40" y="130" font-family="'Segoe UI', system-ui, sans-serif" font-size="17" font-weight="400" fill="#B5D4F4">Software Engineer · AI &amp; Automation Builder</text>
+  <text x="40" y="154" font-family="'Segoe UI', system-ui, sans-serif" font-size="17" font-weight="400" fill="#B5D4F4">SaaS Founder @ ESM Softwares</text>
+
+  <!-- Location tag -->
+  <rect x="40" y="168" width="168" height="22" fill="#162238" rx="4"/>
+  <text x="52" y="183" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#85B7EB">📍 Minas Gerais, Brazil</text>
+
+  <!-- Portfolio link -->
+  <rect x="40" y="215" width="192" height="32" fill="#0F2236" rx="6" stroke="#378ADD" stroke-width="0.8"/>
+  <text x="56" y="235" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="500" fill="#85B7EB">🌐 eliveutonsouza.com</text>
+
+  <!-- Email link -->
+  <rect x="244" y="215" width="196" height="32" fill="#0F2236" rx="6" stroke="#185FA5" stroke-width="0.8"/>
+  <text x="260" y="235" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="500" fill="#85B7EB">✉ eliveuton.dev@gmail.com</text>
+
+  <!-- Social handles -->
+  <text x="40" y="269" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#444441">linkedin.com/in/eliveuton-souza</text>
+  <text x="260" y="269" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#444441">github.com/eliveutonsouza</text>
+</svg>
