@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliveutonsouza/eliveutonsouza/main/banner.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/eliveutonsouza/eliveutonsouza/blob/master/banner.svg">
   <img src="https://raw.githubusercontent.com/eliveutonsouza/eliveutonsouza/main/banner.svg" width="100%" alt="Eliveuton Souza — Software Engineer · AI Builder · SaaS Founder" />
 </picture>
 
